@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567447317531",
+    "firebase_url": "https://fireapp-d6287-default-rtdb.firebaseio.com",
+    "project_id": "fireapp-d6287",
+    "storage_bucket": "fireapp-d6287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567447317531:android:657db52b7dfd2392bfdcbe",
+        "android_client_info": {
+          "package_name": "com.ibrahima.firebaserdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567447317531-8r69udc0jaf276plr7gptq85hcl3tddu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuiWipBjjxUvo6UvOHjJE7D67Olei2e2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567447317531-8r69udc0jaf276plr7gptq85hcl3tddu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
